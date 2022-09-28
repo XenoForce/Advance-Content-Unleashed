@@ -1,0 +1,53 @@
+type: UnitFactory
+name: Unit Factory (Advance Content)
+description: Unit Factory (Advance Content)
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: advancecontent-abolisher     , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-annihilator   , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-aptrgangr     , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-baby-reaper   , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-claw-melee    , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-claw-ranger   , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-eliminator    , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-gashadokuro   , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-halberd       , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-rapid1        , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-rapid2        , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-rapid3        , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-azathoth       , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-death          , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-disintegrator  , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-eliminator     , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-famine         , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-pandora        , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-pestilence     , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-phoenix-unit   , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-ravager        , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-scourge          , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-scourge-segment  , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	{ unit: advancecontent-strider          , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+	
+	{ unit: advancecontent-war  , time: 90, requirements: [] }    // (type: _____)  (health:  _____)
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true

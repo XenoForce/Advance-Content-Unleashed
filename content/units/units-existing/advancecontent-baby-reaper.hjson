@@ -1,0 +1,17 @@
+
+// type: flying
+// name: Baby Reaper
+// health: 1750
+
+
+buildSpeed: 9900.0
+itemCapacity: 9900
+
+speed: 3.0
+
+fogRadius: 90
+
+envEnabled: 17
+envDisabled: 0
+
+alwaysUnlocked: true

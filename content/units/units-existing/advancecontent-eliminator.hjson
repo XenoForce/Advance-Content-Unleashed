@@ -1,0 +1,17 @@
+
+// type: mech
+// name: Eliminator
+// health: 10000
+
+
+buildSpeed: 9900.0
+itemCapacity: 9900
+
+speed: 1.3
+
+fogRadius: 90
+
+envEnabled: 17
+envDisabled: 0
+
+alwaysUnlocked: true
